@@ -1,0 +1,4 @@
+{
+  "model_path": "best.pt",
+  "labels": ["person"]
+}
